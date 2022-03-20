@@ -1,3 +1,0 @@
-- we didnt give enough importance to differentiate dialect vs accent... both are not same...
-  An accent is simply how one pronounces words—a style of pronunciation. A dialect includes not just pronunciations, but also one’s general vocabulary and grammar.
-- Research problem need revamped! 
