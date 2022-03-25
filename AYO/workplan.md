@@ -32,5 +32,11 @@ Now I'm gonna lay down the basic structure of the model building:
 5. Plot **Learning Curve** to find out whether we have a bian or variance problem. This is the most important step of model debugging! Note to myself: Be patient here!
 6. According to the problem, improve the model!
 
+## Update: March 25
+
+- Build ExtraTreesClassifier to reduce variance!
+
+
+
 
 
